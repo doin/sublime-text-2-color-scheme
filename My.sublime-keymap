@@ -1,0 +1,23 @@
+{
+	"color_scheme": "Packages/User/Monokai-custom.tmTheme",
+	"fade_fold_buttons": false,
+	"fold_buttons": true,
+	"font_face": "yahei_mono",
+	"font_options":
+	[
+	],
+	"font_size": 11,
+	"gutter": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": 4,
+	"open_files_in_new_window": true,
+	"tab_size": 4,
+	"theme": "Default.sublime-theme",
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`?"
+}
