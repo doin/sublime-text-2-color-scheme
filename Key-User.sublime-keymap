@@ -1,0 +1,14 @@
+[
+	//删除一行
+	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"}},
+	//选择相同
+	{ "keys": ["ctrl+shift+k"], "command": "find_under_expand" }, 
+	{ "keys": ["ctrl+n"], "command": "auto_complete" },
+	{ "keys": ["ctrl+n"], "command": "replace_completion_with_auto_complete", "context":
+		[
+			{ "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+			{ "key": "auto_complete_visible", "operator": "equal", "operand": false },
+			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
+		]
+	}
+]
