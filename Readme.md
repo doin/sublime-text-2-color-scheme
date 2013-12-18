@@ -74,3 +74,6 @@ linux和mac下的sublime text破解过程与windows下的同理。
 	85E053D2B5E16502F4B009DE413591DE
 	0840D6E2CBF0A3049E2FAD940A53FF67
 	—–END LICENSE—–
+
+	--------------------------------------------
+	
